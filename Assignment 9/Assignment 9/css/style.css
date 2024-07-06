@@ -1,5 +1,5 @@
 h1 {
-    color:rgb(10, 1, 23);
+    color:rgb(10, 1, 23); font-weight: bold;
 }
 
 .square {
@@ -7,6 +7,7 @@ h1 {
 }
 
 #pink {
+    color:darkslateblue
     background-color: coral;
 }
 
