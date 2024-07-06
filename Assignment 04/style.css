@@ -1,15 +1,15 @@
 /*Page-Wide*/
 body {
     background-color: aquamarine;
-    color:darkblue
+    color:darkblue;
 }
 
 /*Paragraph Content*/
 .text {
     background-color: cadetblue;
     color:darkblue;
-    padding: 5px
-     font-family: "Playwrite IS", cursive;
+    padding: 5px;
+     font-family:"Playwrite IS", cursive;
 }
 
 <h1> <h2> {
@@ -19,5 +19,5 @@ body {
 /*For More Stories, follow me!*/
 a {
     color:aliceblue;
-    background-color: blueviolet; padding: 2px; font-weight: bold;
+    background-color: blueviolet; padding: 5px; font-weight: bold;
 }
