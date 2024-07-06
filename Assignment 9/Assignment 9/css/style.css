@@ -1,7 +1,15 @@
 h1 {
-    color:aquamarine;
+    color:rgb(10, 1, 23);
 }
 
 .square {
+    width: 50%;
+}
+
+#pink {
     background-color: coral;
+}
+
+#sage { 
+    background-color: darkolivegreen;
 }
