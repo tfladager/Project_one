@@ -18,5 +18,5 @@ body {
 
 /*For More Stories, follow me!*/
 a {
-    background-color: blueviolet; padding: 2px;
+    background-color: blueviolet; padding: 2px; font-weight: bold;
 }
